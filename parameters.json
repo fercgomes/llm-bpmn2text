@@ -1,0 +1,6 @@
+{
+  "chatgpt_models": ["gpt-4-1106-preview"],
+  "temperatures": [1],
+  "annotated_dataset_dir": "datasets/covid19",
+  "prompts_dir": "prompts"
+}
